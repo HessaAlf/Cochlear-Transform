@@ -1,0 +1,9 @@
+All Cochlear Transform tests passed.
+Two-tone NRE: 3.57e-13; modulated NRE: 2.13e-11; high-band NRE: 4.1e-11
+Analysis fs: 4200 Hz; 2 channels; NRE: 1.702e-11
+    OriginalHz    ThetaDegrees
+    __________    ____________
+
+        20           961.43   
+         4           225.22   
+
